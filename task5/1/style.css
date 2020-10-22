@@ -1,0 +1,21 @@
+.board{
+    height: 400px;
+    width: 400px;
+    margin: 50px auto;
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+ 
+.block{
+    height: 50px;
+    width: 50px;
+}
+ 
+.black{
+    background: black;
+}
+ 
+.white{
+    background: white;
+}
